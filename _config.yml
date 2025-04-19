@@ -33,6 +33,9 @@ github_username:  jekyll
 theme: minima
 plugins:
   - jekyll-feed
+url: "https://github.com/chenqiang2026/chenqiang.github.io.git"
+baseurl: ""
+  
 
 # Exclude from processing.
 # The following items will not be processed, by default.
